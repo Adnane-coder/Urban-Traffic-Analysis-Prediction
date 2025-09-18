@@ -45,3 +45,4 @@ L'analyse de l'importance des variables a clairement mis en évidence les facteu
 * `data/` : Contient les jeux de données d'entrée et de sortie.
 * `images/` : Contient les graphiques générés.
 * `src/` : Scripts Python autonomes.
+* "![Importance des variables](images/Importance des variables pour la prédiction du trafic.png)"
