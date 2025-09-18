@@ -25,6 +25,9 @@ Le projet a été mené en suivant une approche structurée en quatre étapes, d
 
 4.  **Interprétation du Modèle :**
     -   Analyse de l'importance des variables pour comprendre les facteurs clés de la prédiction.
+  
+5.  **Visulaization Tableau :**
+   -  J'ai synthétisé les conclusions de l'analyse et les performances du modèle en tableaux clairs et concis. Cette approche a permis de communiquer les indicateurs clés
 
  🎯 Résultats et Conclusions
 
@@ -46,3 +49,4 @@ L'analyse de l'importance des variables a clairement mis en évidence les facteu
 * `images/` : Contient les graphiques générés.
 * `src/` : Scripts Python autonomes.
 * "![Importance des variables](images/Importance des variables pour la prédiction du trafic.png)"
+* Lien Tableau:https://public.tableau.com/app/profile/adnane.ben.ammar/vizzes
